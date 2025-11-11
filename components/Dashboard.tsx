@@ -34,6 +34,7 @@ interface ChartData {
   count?: number;
   pipeline?: number;
   closed?: number;
+  [key: string]: string | number | undefined;
 }
 
 const generateSalesData = (): Opportunity[] => {
