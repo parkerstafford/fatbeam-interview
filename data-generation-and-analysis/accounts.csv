@@ -1,0 +1,101 @@
+account_id,account_name,industry,company_size,territory_id,annual_revenue,website,primary_contact_name,primary_contact_email,account_status,created_date
+ACC-2000,"Williams, Moore and Martin",Education,Small (1-50),TERR-NW,36788921,https://logan.com/,Lawrence Schneider,smithpaula@example.org,Active,2024-10-08 15:51:14
+ACC-2001,"Hanson, Russell and Ortega",Education,Large (201-1000),TERR-MW,27735830,https://herrera-abbott.com/,Catherine Hicks,barbaraanderson@example.com,Active,2024-03-06 00:03:30
+ACC-2002,Allen Inc,Healthcare,Medium (51-200),TERR-NW,49140618,https://hickman.com/,Kevin Jefferson,kristycruz@example.net,Active,2024-04-29 04:30:12
+ACC-2003,"Brown, Cook and Russell",Education,Small (1-50),TERR-SW,27301898,https://rodriguez.org/,Rachel Green,cjenkins@example.com,Active,2024-10-27 09:20:59
+ACC-2004,Jones Inc,Technology,Small (1-50),TERR-NW,30210711,https://www.everett.com/,Kimberly Rivera,vnguyen@example.net,Active,2024-11-11 07:28:20
+ACC-2005,Stewart Ltd,Healthcare,Medium (51-200),TERR-NW,24981428,http://white.net/,Amber Ramirez,robert31@example.org,Active,2024-09-09 20:39:39
+ACC-2006,Brown-Clark,Retail,Medium (51-200),TERR-SW,32632483,http://www.blake-meyers.com/,Rachel Pope,alejandrowarren@example.com,Active,2024-10-10 08:10:45
+ACC-2007,Woods Group,Healthcare,Enterprise (1000+),TERR-PAC,10628519,https://www.barnes.com/,Karen Taylor,robertwilson@example.net,Active,2024-02-14 17:44:35
+ACC-2008,Leonard-Steele,Technology,Medium (51-200),TERR-SW,22249687,http://wilson.info/,Albert Walsh,madisongardner@example.org,Active,2024-06-25 00:56:48
+ACC-2009,King-Price,Finance,Large (201-1000),TERR-MW,45081282,https://www.bailey.org/,Benjamin Cook Jr.,jennifer16@example.org,Active,2023-12-02 08:31:53
+ACC-2010,Robinson LLC,Healthcare,Large (201-1000),TERR-NW,22300885,http://parker.org/,Ruben Moss,callen@example.com,Active,2024-04-27 04:35:46
+ACC-2011,"Roberts, Estrada and Thomas",Technology,Enterprise (1000+),TERR-NW,41959284,http://weaver-dawson.net/,Erik Davis,gdouglas@example.com,Active,2024-10-25 00:13:23
+ACC-2012,"Bishop, Anderson and Kelley",Finance,Large (201-1000),TERR-PAC,5981505,https://rogers-owens.net/,Ashley Everett,nathaniel23@example.net,Active,2024-05-10 03:15:22
+ACC-2013,Garcia-Adkins,Technology,Enterprise (1000+),TERR-NW,14953367,https://www.carter-young.org/,Jose Rogers,escobarmartha@example.org,Active,2024-02-02 13:42:02
+ACC-2014,"Trujillo, Lewis and Soto",Manufacturing,Small (1-50),TERR-PAC,19544107,http://www.lutz-gomez.com/,Brenda Escobar,vsmith@example.net,Active,2023-11-20 07:59:46
+ACC-2015,"Olson, Lewis and Zhang",Education,Large (201-1000),TERR-MW,5521373,http://cox.org/,Jose Holloway,cunninghamdavid@example.net,Active,2024-04-21 15:48:01
+ACC-2016,Gonzalez-Miller,Education,Small (1-50),TERR-NW,40574309,https://hughes-guerra.com/,Robin Gregory,mathewsteresa@example.com,Active,2024-03-23 20:20:06
+ACC-2017,Rogers-Andrews,Education,Medium (51-200),TERR-PAC,4344769,https://www.conrad.com/,Richard Hines,petersenchristopher@example.net,Active,2024-10-05 22:51:24
+ACC-2018,"Gomez, Ayala and Davis",Technology,Medium (51-200),TERR-NW,43734783,http://wang-johnson.com/,Jose Welch,brownfelicia@example.org,Active,2024-07-31 08:26:04
+ACC-2019,"Rodriguez, Hendricks and Allen",Manufacturing,Large (201-1000),TERR-SW,34657787,http://www.harrington-strickland.com/,James Perry,duncanmisty@example.net,Active,2024-05-02 20:08:13
+ACC-2020,"Howard, Foster and Luna",Education,Large (201-1000),TERR-MW,35817184,https://www.perez-carpenter.com/,Jason Harris,olopez@example.net,Active,2024-10-25 02:35:49
+ACC-2021,"Perez, Hayden and Chase",Finance,Large (201-1000),TERR-MW,32642059,http://www.murray-carr.org/,Sarah Carlson,zvargas@example.net,Active,2024-08-08 05:54:16
+ACC-2022,Johnson-Baker,Education,Large (201-1000),TERR-NW,10784633,https://www.miller.com/,Christina Evans,kathleenpowell@example.org,Active,2024-01-28 04:46:46
+ACC-2023,Martin-Harrison,Retail,Medium (51-200),TERR-MW,40219221,https://koch.com/,Tracey Murphy,meganramos@example.com,Active,2024-05-25 05:06:44
+ACC-2024,Munoz-Briggs,Healthcare,Enterprise (1000+),TERR-SW,31349564,http://craig.com/,Christopher Brown,gregory29@example.org,Active,2024-07-19 15:43:38
+ACC-2025,Miller-Mullen,Finance,Medium (51-200),TERR-PAC,44250411,https://hall.com/,Charles Wu,william32@example.net,Active,2024-07-18 17:34:58
+ACC-2026,Hayes-Hunt,Technology,Medium (51-200),TERR-NW,32943512,http://www.phillips-lawrence.biz/,Michelle Gonzalez,glenn39@example.org,Active,2024-02-14 22:00:32
+ACC-2027,Jenkins-Walker,Finance,Enterprise (1000+),TERR-PAC,43860080,http://scott.org/,Scott Guerrero,schultzamanda@example.net,Active,2024-09-13 04:01:45
+ACC-2028,Rose-Peters,Technology,Medium (51-200),TERR-PAC,40297498,http://williams.com/,Shannon Smith,berrystanley@example.org,Active,2024-08-20 03:22:46
+ACC-2029,"Smith, Lopez and Sullivan",Healthcare,Enterprise (1000+),TERR-SW,11642490,http://montgomery-maldonado.info/,Rebecca Young,greenkimberly@example.org,Active,2024-01-18 10:29:55
+ACC-2030,Martin Inc,Education,Enterprise (1000+),TERR-MW,40668222,http://chavez.info/,Joel Brown,fordjenna@example.com,Active,2024-10-18 06:39:24
+ACC-2031,Smith Ltd,Finance,Medium (51-200),TERR-MW,47792155,https://cardenas.org/,Jacqueline Sanders,hayden45@example.org,Active,2024-11-06 10:23:40
+ACC-2032,Houston-Sanchez,Education,Large (201-1000),TERR-SW,22498555,https://www.massey.com/,Amy Williamson,howardsean@example.org,Active,2024-09-22 07:54:07
+ACC-2033,"Price, Martinez and Love",Retail,Enterprise (1000+),TERR-PAC,31008271,https://www.odom-sanchez.com/,Heather Brown,xmedina@example.net,Active,2024-05-15 13:49:19
+ACC-2034,Lewis-Brady,Healthcare,Medium (51-200),TERR-SW,13648637,https://simon.com/,Jimmy Oliver,breannasantos@example.com,Active,2024-03-29 20:00:26
+ACC-2035,Mckinney and Sons,Technology,Small (1-50),TERR-NW,17861870,http://www.taylor.com/,David Montoya,samuel64@example.org,Active,2024-02-18 03:24:15
+ACC-2036,Marquez-Doyle,Healthcare,Medium (51-200),TERR-SW,39702013,https://mann.net/,Amanda Jones,julie17@example.net,Active,2024-10-02 13:23:12
+ACC-2037,Hernandez-Meza,Retail,Small (1-50),TERR-SW,33049003,http://www.moore.com/,Amy Cooper,brittney24@example.net,Active,2023-12-17 15:29:17
+ACC-2038,Boyd PLC,Manufacturing,Enterprise (1000+),TERR-PAC,3428388,https://www.lopez.com/,Robert Sanders,rachel28@example.org,Active,2023-12-06 09:06:49
+ACC-2039,Farrell LLC,Retail,Small (1-50),TERR-NW,37217478,https://levy.com/,Devin Boyd,april99@example.com,Active,2024-04-15 11:58:53
+ACC-2040,Alexander-Rice,Education,Large (201-1000),TERR-PAC,11959014,http://www.phillips.com/,Alexis Levine,emullen@example.com,Active,2023-11-16 05:25:56
+ACC-2041,Rivera Inc,Technology,Large (201-1000),TERR-SW,49900483,http://murphy.com/,Sandra Lawrence,ygarcia@example.com,Active,2023-12-24 06:13:04
+ACC-2042,Smith PLC,Healthcare,Enterprise (1000+),TERR-NW,21193880,https://richardson-castillo.org/,Tina Collins,glovermaria@example.net,Active,2024-09-26 02:52:39
+ACC-2043,Dawson-Greer,Education,Large (201-1000),TERR-MW,4385357,http://www.roberts-white.com/,Michael White,jordanjose@example.org,Active,2024-06-11 19:51:05
+ACC-2044,Thompson Ltd,Retail,Small (1-50),TERR-PAC,45738553,http://cortez.com/,Joshua Mills,wbutler@example.net,Active,2023-12-02 03:14:19
+ACC-2045,"Thomas, Fuentes and Shannon",Education,Medium (51-200),TERR-MW,34237768,http://www.scott.com/,Amber Lopez,fcoffey@example.com,Active,2024-05-06 18:45:23
+ACC-2046,Shannon and Sons,Finance,Medium (51-200),TERR-NW,2465689,https://www.rogers.org/,Ian Crawford,jmitchell@example.org,Active,2024-04-03 09:37:21
+ACC-2047,"Bates, Garza and Jensen",Retail,Large (201-1000),TERR-SW,17845364,https://www.hoffman-wright.org/,Emily Cooper,icook@example.net,Active,2024-09-07 16:47:01
+ACC-2048,Gray-Martin,Technology,Small (1-50),TERR-PAC,29563547,http://stevenson.com/,Lisa Sharp,michaelgibson@example.org,Active,2024-04-14 17:27:26
+ACC-2049,Long and Sons,Finance,Medium (51-200),TERR-NW,12392366,http://www.fields-russell.com/,Thomas Gibson,webstermadison@example.net,Active,2024-07-08 00:52:11
+ACC-2050,"Jimenez, Hunt and Allen",Healthcare,Small (1-50),TERR-NW,49913339,https://www.wilson-gomez.info/,Christina Ochoa,jaredsmith@example.com,Active,2024-06-30 22:14:47
+ACC-2051,Kemp Group,Education,Enterprise (1000+),TERR-NW,3669995,https://pham.com/,Dennis Douglas,beth56@example.net,Active,2023-11-26 07:18:31
+ACC-2052,Hopkins-Johnson,Retail,Medium (51-200),TERR-MW,47393852,http://lopez.net/,Christopher Bass,contrerasmichelle@example.net,Active,2024-09-20 22:03:06
+ACC-2053,Martin PLC,Education,Enterprise (1000+),TERR-MW,22775111,https://www.colon.org/,Kristin Beltran,calebwright@example.org,Active,2024-08-05 22:31:38
+ACC-2054,"Smith, Brown and Bennett",Finance,Enterprise (1000+),TERR-MW,14479854,http://brown.com/,Pamela Jones,robert20@example.com,Active,2024-09-07 10:27:15
+ACC-2055,"Long, Davis and Dean",Retail,Medium (51-200),TERR-PAC,7397986,http://black.com/,Patrick Larson,morenomatthew@example.com,Active,2024-06-21 01:55:46
+ACC-2056,"Williams, Hanson and Mercado",Manufacturing,Large (201-1000),TERR-SW,14187277,http://www.cardenas.com/,Jean Lane,amanda04@example.org,Active,2024-08-24 11:00:25
+ACC-2057,"Graham, Baker and Carey",Retail,Enterprise (1000+),TERR-NW,2870928,https://www.brennan.com/,Joanne Nguyen,zrobinson@example.net,Active,2023-12-02 11:46:33
+ACC-2058,Bennett-Abbott,Healthcare,Medium (51-200),TERR-NW,38709731,http://www.summers.net/,Julian Santiago,daviscolleen@example.com,Active,2023-12-15 12:51:20
+ACC-2059,Walls Inc,Finance,Small (1-50),TERR-MW,45500529,https://www.smith-smith.biz/,Gregory Lee,doughertyjames@example.net,Active,2024-07-25 13:04:04
+ACC-2060,"Bonilla, Mcclure and Simon",Retail,Medium (51-200),TERR-NW,27939239,https://hanson.com/,Christina Dalton,msloan@example.net,Active,2024-07-20 14:12:34
+ACC-2061,Gordon-Anderson,Technology,Small (1-50),TERR-MW,24027075,http://hamilton-watkins.info/,Christine Chambers,jonesnichole@example.org,Active,2024-04-14 12:13:28
+ACC-2062,Giles Group,Technology,Small (1-50),TERR-PAC,15091261,http://kennedy.com/,Betty Richardson,torresjohn@example.com,Active,2024-06-03 02:54:56
+ACC-2063,"Lane, Anderson and Choi",Technology,Medium (51-200),TERR-PAC,20082629,https://williams.info/,Lori Henderson,wdavidson@example.net,Active,2024-02-25 22:20:03
+ACC-2064,Wolf Ltd,Education,Enterprise (1000+),TERR-MW,21687413,http://www.pierce-frazier.com/,Thomas Carr,daniel86@example.org,Active,2024-04-16 16:22:52
+ACC-2065,"Murphy, Lopez and Noble",Retail,Medium (51-200),TERR-SW,23335235,https://gray-mcfarland.net/,Jack Soto,lauren97@example.com,Active,2024-04-21 18:02:48
+ACC-2066,Flowers Ltd,Healthcare,Enterprise (1000+),TERR-SW,1271836,http://www.gray-harris.com/,Don Marshall,angelica61@example.net,Active,2024-03-06 08:23:29
+ACC-2067,"Rodriguez, Richards and Newman",Healthcare,Small (1-50),TERR-NW,4584702,http://adkins.org/,Jennifer Padilla,thompsonjoshua@example.com,Active,2024-07-02 02:41:53
+ACC-2068,Kelly Group,Education,Enterprise (1000+),TERR-PAC,41835801,http://nichols.info/,Stephen Taylor,simmonssuzanne@example.net,Active,2024-06-16 22:49:02
+ACC-2069,Ellis Group,Manufacturing,Enterprise (1000+),TERR-SW,9585377,http://adkins.com/,Julie Long,johnsonrenee@example.net,Active,2024-01-25 13:37:36
+ACC-2070,Rose and Sons,Education,Small (1-50),TERR-NW,20435721,http://www.collins.net/,Connie Everett,hodgesmaria@example.com,Active,2024-01-28 12:15:15
+ACC-2071,Perez-Johnson,Technology,Enterprise (1000+),TERR-PAC,19048957,https://www.aguilar.com/,Kelly Curry,emily05@example.org,Active,2024-10-27 09:09:56
+ACC-2072,Bates-Carpenter,Technology,Medium (51-200),TERR-MW,21546531,http://www.kim.com/,Cynthia Carroll,robert30@example.net,Active,2024-03-31 02:15:03
+ACC-2073,"Wyatt, Williams and Moreno",Healthcare,Enterprise (1000+),TERR-MW,18824013,https://smith.biz/,Lisa Campos,jamesian@example.net,Active,2023-11-20 01:10:25
+ACC-2074,Jones Group,Manufacturing,Medium (51-200),TERR-PAC,37601694,http://rogers-campos.com/,Robert Rodriguez,leslieparker@example.com,Active,2024-06-06 04:39:22
+ACC-2075,Gardner Inc,Manufacturing,Medium (51-200),TERR-NW,45528071,http://www.doyle.biz/,Taylor Thomas,genesullivan@example.net,Active,2024-01-26 01:49:29
+ACC-2076,Wright Ltd,Manufacturing,Small (1-50),TERR-NW,35119117,https://morrow.com/,Rachel Burns,holly02@example.net,Active,2024-10-19 11:02:42
+ACC-2077,"Matthews, Browning and Brown",Education,Small (1-50),TERR-NW,37433622,http://www.duran-murphy.com/,Luke Freeman,glevy@example.net,Active,2024-09-13 12:31:25
+ACC-2078,Myers-Aguilar,Healthcare,Medium (51-200),TERR-SW,23373627,https://www.martin.com/,Lori Baker,ramirezkrystal@example.com,Active,2024-07-01 11:20:13
+ACC-2079,"Morgan, Anderson and Lawson",Manufacturing,Enterprise (1000+),TERR-MW,35561725,http://roberts-lucas.com/,Nicholas Soto,otrevino@example.com,Active,2023-12-14 16:39:31
+ACC-2080,"French, Martinez and Gonzales",Manufacturing,Small (1-50),TERR-MW,4366612,http://www.elliott.net/,Donald Wilson,ricealan@example.org,Active,2024-05-03 20:52:13
+ACC-2081,Smith-Mccullough,Manufacturing,Small (1-50),TERR-SW,25584529,https://www.rios.com/,Robert Franklin MD,jasmine84@example.net,Active,2024-07-23 04:59:07
+ACC-2082,Delgado-Goodwin,Finance,Enterprise (1000+),TERR-PAC,37258670,http://clarke.org/,Jeffrey Gillespie DDS,jonathanhughes@example.org,Active,2024-10-24 23:45:13
+ACC-2083,"Thomas, Cannon and Hale",Manufacturing,Enterprise (1000+),TERR-MW,3630708,http://mullins.com/,Seth Roberts,katrinamiller@example.com,Active,2023-12-02 06:41:51
+ACC-2084,Austin-Campbell,Healthcare,Large (201-1000),TERR-MW,38049111,https://potter-wood.biz/,Jennifer Clements,nancygarcia@example.org,Active,2024-04-02 01:23:16
+ACC-2085,Stewart-Turner,Technology,Small (1-50),TERR-PAC,45556780,https://townsend.com/,Sarah Powell,jonathan61@example.com,Active,2024-10-30 10:22:35
+ACC-2086,"Jones, Bailey and Willis",Technology,Small (1-50),TERR-SW,2285160,http://www.baker-miller.net/,Taylor Gibson,robertmunoz@example.net,Active,2024-03-21 12:15:25
+ACC-2087,Lozano-Martinez,Retail,Medium (51-200),TERR-NW,23857742,http://white.info/,Jose Trujillo,cscott@example.com,Active,2024-06-09 00:25:33
+ACC-2088,Ross-Galloway,Retail,Small (1-50),TERR-MW,39727468,http://www.coleman-manning.info/,Michelle Johnson,gwall@example.com,Active,2024-01-12 12:50:58
+ACC-2089,"Booth, Walter and Weaver",Technology,Small (1-50),TERR-MW,1048984,https://www.pace-marsh.com/,Michael Barnes MD,sharon20@example.org,Active,2024-10-07 08:34:56
+ACC-2090,Lee Inc,Manufacturing,Small (1-50),TERR-MW,11788678,https://www.krueger.com/,Lauren Perkins,wadedonna@example.org,Active,2023-12-11 06:42:55
+ACC-2091,"Mcmahon, Terry and Bruce",Retail,Small (1-50),TERR-NW,7556168,https://www.suarez-herrera.com/,Edward Miller,melissamurphy@example.net,Active,2024-08-03 21:27:29
+ACC-2092,Conner Group,Manufacturing,Large (201-1000),TERR-PAC,29431703,https://www.taylor.com/,Elizabeth Medina,justinbates@example.org,Active,2024-04-06 16:55:32
+ACC-2093,Thompson-Reynolds,Healthcare,Large (201-1000),TERR-MW,19281600,https://www.jones-guzman.com/,Bruce Orr,qchavez@example.net,Active,2024-04-15 05:17:09
+ACC-2094,Schwartz PLC,Finance,Enterprise (1000+),TERR-MW,49170987,http://cross-watson.info/,Catherine Kirby,nicholas78@example.net,Active,2024-02-04 10:37:13
+ACC-2095,Rodriguez Group,Education,Large (201-1000),TERR-SW,24717335,http://brown-hoffman.com/,Elizabeth Sanford,kimberlybrown@example.com,Active,2024-05-13 12:53:38
+ACC-2096,Carter-Patterson,Finance,Small (1-50),TERR-NW,13719242,https://white-oconnor.org/,Shaun Wolfe,johnsontina@example.org,Active,2024-05-17 05:40:01
+ACC-2097,Williams-Myers,Manufacturing,Small (1-50),TERR-NW,49715250,https://www.norris-simmons.com/,Stanley Castro,mianewton@example.org,Active,2024-04-07 04:45:01
+ACC-2098,Mckay Group,Retail,Medium (51-200),TERR-PAC,17030288,http://aguirre.com/,Haley Nelson,alex62@example.net,Active,2024-05-20 21:01:35
+ACC-2099,Bridges-Martinez,Healthcare,Large (201-1000),TERR-NW,36291527,http://haynes.com/,Nancy Martinez,amanda04@example.com,Active,2024-06-29 23:57:50

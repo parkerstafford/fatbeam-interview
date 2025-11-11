@@ -1,0 +1,5 @@
+territory_id,territory_name,region,quota_monthly,active
+TERR-NW,Northwest,Pacific Northwest,500000,True
+TERR-MW,Mountain West,Mountain,450000,True
+TERR-PAC,Pacific,West Coast,600000,True
+TERR-SW,Southwest,Southwest,480000,True

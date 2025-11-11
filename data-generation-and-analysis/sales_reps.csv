@@ -1,0 +1,9 @@
+rep_id,first_name,last_name,email,territory_id,hire_date,role,quota_annual,active
+REP-1000,Michelle,Phillips,dolson@example.org,TERR-NW,2024-12-14,Account Executive,1121958,True
+REP-1001,Krystal,Sparks,tuckerkenneth@example.net,TERR-MW,2025-04-02,Account Executive,1671155,True
+REP-1002,Melissa,Graham,spencejustin@example.net,TERR-PAC,2024-08-01,Account Executive,1131932,True
+REP-1003,Nicole,Cox,colejennifer@example.com,TERR-SW,2024-09-18,Account Executive,1365838,True
+REP-1004,Garrett,Jenkins,garciaamanda@example.com,TERR-NW,2025-04-03,Account Executive,1259178,True
+REP-1005,Timothy,Craig,millerronald@example.net,TERR-MW,2023-11-23,Account Executive,1644167,True
+REP-1006,Laura,Bonilla,allen52@example.org,TERR-PAC,2025-03-26,Account Executive,1110268,True
+REP-1007,Kevin,Smith,kevin07@example.net,TERR-SW,2023-03-06,Account Executive,1732180,True

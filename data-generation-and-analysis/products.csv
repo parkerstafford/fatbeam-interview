@@ -1,0 +1,6 @@
+product_id,product_name,product_category,unit_price,recurring,active
+PROD-001,Fiber Internet,Connectivity,2500,True,True
+PROD-002,Dark Fiber,Infrastructure,15000,True,True
+PROD-003,Ethernet,Connectivity,1800,True,True
+PROD-004,Cloud Connect,Cloud Services,3200,True,True
+PROD-005,Managed Services,Professional Services,5000,False,True
